@@ -1,6 +1,9 @@
 def sum(a,b):
   return a + a
 
-def banafshesubtract(a,b):
+def banafshedivide(a,b):
   return a / b
+
+def multiMarco(a,a):
+  return a**b
 
