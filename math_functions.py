@@ -8,4 +8,4 @@ def multiMarco(a,b):
   return a**b
 
 if __name__ == '__main__':
-  a = sum(5,6)
+  a = sum(banafshedivide(multiMarco(3,4),6),10))
