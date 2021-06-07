@@ -1,5 +1,5 @@
 def sum(a,b):
-  return a + a
+  return a + b
 
 def banafshedivide(a,b):
   return a / b
